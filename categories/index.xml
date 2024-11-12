@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Corte Fino</title>
-    <link>https://cortefino.online/categories/</link>
+    <link>https://cortefino-mexico.github.io/categories/</link>
     <description>Recent content in Categories on Corte Fino</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
     <managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor>
     <webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster>
-    <atom:link href="https://cortefino.online/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cortefino-mexico.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
