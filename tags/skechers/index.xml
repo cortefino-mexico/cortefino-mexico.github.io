@@ -1,97 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Skechers on Corte Fino</title>
-    <link>http://localhost:1313/tags/skechers/</link>
-    <description>Recent content in Skechers on Corte Fino</description>
-    <generator>Hugo</generator>
-    <language>es-MX</language>
-    <managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor>
-    <webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster>
-    <atom:link href="http://localhost:1313/tags/skechers/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Skechers</title>
-      <link>http://localhost:1313/items/000112/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000112/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5285.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Skechers</title>
-      <link>http://localhost:1313/items/000113/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000113/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5260.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Skechers</title>
-      <link>http://localhost:1313/items/000114/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000114/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5245.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Skechers</title>
-      <link>http://localhost:1313/items/000115/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000115/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5048.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Skechers</title>
-      <link>http://localhost:1313/items/000116/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000116/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5286.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Skechers</title>
-      <link>http://localhost:1313/items/000117/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000117/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5261.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Skechers</title>
-      <link>http://localhost:1313/items/000136/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000136/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5034.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Skechers</title>
-      <link>http://localhost:1313/items/000138/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000138/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5036.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Skechers</title>
-      <link>http://localhost:1313/items/000140/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000140/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5037.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Skechers</title>
-      <link>http://localhost:1313/items/000141/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000141/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5040.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Skechers</title>
-      <link>http://localhost:1313/items/000167/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000167/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5315.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Skechers</title>
-      <link>http://localhost:1313/items/000172/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000172/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4737.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Skechers on Corte Fino</title><link>https://cortefino-mexico.github.io/tags/skechers/</link><description>Recent content in Skechers on Corte Fino</description><generator>Hugo</generator><language>es-MX</language><managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor><webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster><atom:link href="https://cortefino-mexico.github.io/tags/skechers/index.xml" rel="self" type="application/rss+xml"/><item><title>Skechers</title><link>https://cortefino-mexico.github.io/items/000112/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000112/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5285.jpg">
+&lt;/figure></description></item><item><title>Skechers</title><link>https://cortefino-mexico.github.io/items/000113/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000113/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5260.jpg">
+&lt;/figure></description></item><item><title>Skechers</title><link>https://cortefino-mexico.github.io/items/000114/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000114/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5245.jpg">
+&lt;/figure></description></item><item><title>Skechers</title><link>https://cortefino-mexico.github.io/items/000115/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000115/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5048.jpg">
+&lt;/figure></description></item><item><title>Skechers</title><link>https://cortefino-mexico.github.io/items/000116/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000116/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5286.jpg">
+&lt;/figure></description></item><item><title>Skechers</title><link>https://cortefino-mexico.github.io/items/000117/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000117/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5261.jpg">
+&lt;/figure></description></item><item><title>Skechers</title><link>https://cortefino-mexico.github.io/items/000136/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000136/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5034.jpg">
+&lt;/figure></description></item><item><title>Skechers</title><link>https://cortefino-mexico.github.io/items/000138/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000138/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5036.jpg">
+&lt;/figure></description></item><item><title>Skechers</title><link>https://cortefino-mexico.github.io/items/000140/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000140/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5037.jpg">
+&lt;/figure></description></item><item><title>Skechers</title><link>https://cortefino-mexico.github.io/items/000141/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000141/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5040.jpg">
+&lt;/figure></description></item><item><title>Skechers</title><link>https://cortefino-mexico.github.io/items/000167/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000167/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5315.jpg">
+&lt;/figure></description></item><item><title>Skechers</title><link>https://cortefino-mexico.github.io/items/000172/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000172/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4737.jpg">
+&lt;/figure></description></item></channel></rss>

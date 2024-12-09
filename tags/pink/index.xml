@@ -1,216 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>PINK on Corte Fino</title>
-    <link>http://localhost:1313/tags/pink/</link>
-    <description>Recent content in PINK on Corte Fino</description>
-    <generator>Hugo</generator>
-    <language>es-MX</language>
-    <managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor>
-    <webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster>
-    <atom:link href="http://localhost:1313/tags/pink/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000118/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000118/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4966.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000119/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000119/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4968.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000120/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000120/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4966.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000121/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000121/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4968.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000122/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000122/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4973.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000123/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000123/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5050.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000124/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000124/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5049.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000125/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000125/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5049.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000126/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000126/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5049.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000127/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000127/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4946.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000128/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000128/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4964.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000129/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000129/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4945.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000130/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000130/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4963.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000131/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000131/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4944.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000132/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000132/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5073.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000133/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000133/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4943%202.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000134/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000134/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5074.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000381/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000381/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4889.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000382/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000382/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4888.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000383/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000383/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4889.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000384/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000384/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4949.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000385/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000385/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4950.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000386/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000386/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4885.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000387/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000387/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4890.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000388/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000388/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4891.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000389/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000389/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5196.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000390/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000390/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5197.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000391/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000391/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4886.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>PINK</title>
-      <link>http://localhost:1313/items/000392/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000392/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4887.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PINK on Corte Fino</title><link>https://cortefino-mexico.github.io/tags/pink/</link><description>Recent content in PINK on Corte Fino</description><generator>Hugo</generator><language>es-MX</language><managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor><webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster><atom:link href="https://cortefino-mexico.github.io/tags/pink/index.xml" rel="self" type="application/rss+xml"/><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000118/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000118/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4966.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000119/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000119/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4968.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000120/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000120/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4966.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000121/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000121/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4968.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000122/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000122/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4973.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000123/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000123/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5050.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000124/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000124/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5049.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000125/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000125/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5049.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000126/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000126/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5049.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000127/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000127/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4946.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000128/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000128/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4964.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000129/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000129/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4945.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000130/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000130/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4963.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000131/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000131/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4944.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000132/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000132/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5073.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000133/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000133/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4943%202.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000134/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000134/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5074.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000381/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000381/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4889.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000382/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000382/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4888.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000383/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000383/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4889.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000384/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000384/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4949.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000385/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000385/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4950.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000386/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000386/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4885.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000387/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000387/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4890.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000388/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000388/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4891.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000389/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000389/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5196.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000390/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000390/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5197.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000391/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000391/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4886.jpg">
+&lt;/figure></description></item><item><title>PINK</title><link>https://cortefino-mexico.github.io/items/000392/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000392/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4887.jpg">
+&lt;/figure></description></item></channel></rss>

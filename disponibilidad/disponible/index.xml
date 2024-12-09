@@ -1,300 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>DISPONIBLE on Corte Fino</title>
-    <link>http://localhost:1313/disponibilidad/disponible/</link>
-    <description>Recent content in DISPONIBLE on Corte Fino</description>
-    <generator>Hugo</generator>
-    <language>es-MX</language>
-    <managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor>
-    <webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster>
-    <atom:link href="http://localhost:1313/disponibilidad/disponible/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ALDO</title>
-      <link>http://localhost:1313/items/000004/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000004/</guid>
-      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4730.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4731.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ALDO</title>
-      <link>http://localhost:1313/items/000154/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000154/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5126.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Calvin Klein</title>
-      <link>http://localhost:1313/items/000352/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000352/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4772.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Calvin Klein</title>
-      <link>http://localhost:1313/items/000366/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000366/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5119.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>DKNY</title>
-      <link>http://localhost:1313/items/000094/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000094/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5051.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>DKNY</title>
-      <link>http://localhost:1313/items/000095/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000095/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5052.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>DKNY</title>
-      <link>http://localhost:1313/items/000096/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000096/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5051.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>DKNY</title>
-      <link>http://localhost:1313/items/000342/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000342/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4741.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>DKNY</title>
-      <link>http://localhost:1313/items/000349/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000349/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4693.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>FRIED</title>
-      <link>http://localhost:1313/items/000335/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000335/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4782.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Guess</title>
-      <link>http://localhost:1313/items/000336/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000336/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4786.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Guess</title>
-      <link>http://localhost:1313/items/000337/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000337/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4783.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Guess</title>
-      <link>http://localhost:1313/items/000346/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000346/</guid>
-      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4702.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4701.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Guess</title>
-      <link>http://localhost:1313/items/000364/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000364/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5115.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>HOKA</title>
-      <link>http://localhost:1313/items/000164/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000164/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5088.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>KIKIT</title>
-      <link>http://localhost:1313/items/000355/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000355/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5106.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Lindo</title>
-      <link>http://localhost:1313/items/000223/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000223/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4927.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Michael Kors</title>
-      <link>http://localhost:1313/items/000339/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000339/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4779.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Michael Kors</title>
-      <link>http://localhost:1313/items/000340/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000340/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4780.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Michael Kors</title>
-      <link>http://localhost:1313/items/000357/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000357/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5103.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Michael Kors</title>
-      <link>http://localhost:1313/items/000360/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000360/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5102.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Michael Kors</title>
-      <link>http://localhost:1313/items/000376/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000376/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4979.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>New Balance</title>
-      <link>http://localhost:1313/items/000341/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000341/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4774.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>New Balance</title>
-      <link>http://localhost:1313/items/000374/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000374/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5165.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Nine West</title>
-      <link>http://localhost:1313/items/000359/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000359/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5110.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>NOMAD</title>
-      <link>http://localhost:1313/items/000334/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000334/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4767.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>On 12th</title>
-      <link>http://localhost:1313/items/000354/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000354/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5108.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Profussion</title>
-      <link>http://localhost:1313/items/000238/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000238/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5174.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Puma</title>
-      <link>http://localhost:1313/items/000155/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000155/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5120.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Puma</title>
-      <link>http://localhost:1313/items/000158/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000158/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5124.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>RAINFOREST</title>
-      <link>http://localhost:1313/items/000348/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000348/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4698.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Revolution GLOW</title>
-      <link>http://localhost:1313/items/000243/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000243/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4924.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Skechers</title>
-      <link>http://localhost:1313/items/000172/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000172/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4737.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Steve Maden</title>
-      <link>http://localhost:1313/items/000013/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000013/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4711.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Steve Maden</title>
-      <link>http://localhost:1313/items/000015/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000015/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4720.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>The Balm Cosmetics</title>
-      <link>http://localhost:1313/items/000247/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000247/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The North Face</title>
-      <link>http://localhost:1313/items/000353/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000353/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5105.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Tommy Hilfiger</title>
-      <link>http://localhost:1313/items/000057/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000057/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5259.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Tommy Hilfiger</title>
-      <link>http://localhost:1313/items/000058/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000058/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5209.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Tommy Hilfiger</title>
-      <link>http://localhost:1313/items/000362/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000362/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5113.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>WATERPROOF</title>
-      <link>http://localhost:1313/items/000347/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000347/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4699.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DISPONIBLE on Corte Fino</title><link>https://cortefino-mexico.github.io/disponibilidad/disponible/</link><description>Recent content in DISPONIBLE on Corte Fino</description><generator>Hugo</generator><language>es-MX</language><managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor><webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster><atom:link href="https://cortefino-mexico.github.io/disponibilidad/disponible/index.xml" rel="self" type="application/rss+xml"/><item><title>ALDO</title><link>https://cortefino-mexico.github.io/items/000004/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000004/</guid><description>&lt;p>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4730.jpg">
+&lt;/figure>
+&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4731.jpg">
+&lt;/figure>
+&lt;/p></description></item><item><title>ALDO</title><link>https://cortefino-mexico.github.io/items/000154/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000154/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5126.jpg">
+&lt;/figure></description></item><item><title>Calvin Klein</title><link>https://cortefino-mexico.github.io/items/000352/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000352/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4772.jpg">
+&lt;/figure></description></item><item><title>Calvin Klein</title><link>https://cortefino-mexico.github.io/items/000366/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000366/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5119.jpg">
+&lt;/figure></description></item><item><title>DKNY</title><link>https://cortefino-mexico.github.io/items/000094/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000094/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5051.jpg">
+&lt;/figure></description></item><item><title>DKNY</title><link>https://cortefino-mexico.github.io/items/000095/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000095/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5052.jpg">
+&lt;/figure></description></item><item><title>DKNY</title><link>https://cortefino-mexico.github.io/items/000096/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000096/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5051.jpg">
+&lt;/figure></description></item><item><title>DKNY</title><link>https://cortefino-mexico.github.io/items/000342/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000342/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4741.jpg">
+&lt;/figure></description></item><item><title>DKNY</title><link>https://cortefino-mexico.github.io/items/000349/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000349/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4693.jpg">
+&lt;/figure></description></item><item><title>FRIED</title><link>https://cortefino-mexico.github.io/items/000335/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000335/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4782.jpg">
+&lt;/figure></description></item><item><title>Guess</title><link>https://cortefino-mexico.github.io/items/000336/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000336/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4786.jpg">
+&lt;/figure></description></item><item><title>Guess</title><link>https://cortefino-mexico.github.io/items/000337/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000337/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4783.jpg">
+&lt;/figure></description></item><item><title>Guess</title><link>https://cortefino-mexico.github.io/items/000346/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000346/</guid><description>&lt;p>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4702.jpg">
+&lt;/figure>
+&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4701.jpg">
+&lt;/figure>
+&lt;/p></description></item><item><title>Guess</title><link>https://cortefino-mexico.github.io/items/000364/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000364/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5115.jpg">
+&lt;/figure></description></item><item><title>HOKA</title><link>https://cortefino-mexico.github.io/items/000164/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000164/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5088.jpg">
+&lt;/figure></description></item><item><title>KIKIT</title><link>https://cortefino-mexico.github.io/items/000355/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000355/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5106.jpg">
+&lt;/figure></description></item><item><title>Lindo</title><link>https://cortefino-mexico.github.io/items/000223/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000223/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4927.jpg">
+&lt;/figure></description></item><item><title>Michael Kors</title><link>https://cortefino-mexico.github.io/items/000339/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000339/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4779.jpg">
+&lt;/figure></description></item><item><title>Michael Kors</title><link>https://cortefino-mexico.github.io/items/000340/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000340/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4780.jpg">
+&lt;/figure></description></item><item><title>Michael Kors</title><link>https://cortefino-mexico.github.io/items/000357/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000357/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5103.jpg">
+&lt;/figure></description></item><item><title>Michael Kors</title><link>https://cortefino-mexico.github.io/items/000360/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000360/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5102.jpg">
+&lt;/figure></description></item><item><title>Michael Kors</title><link>https://cortefino-mexico.github.io/items/000376/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000376/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4979.jpg">
+&lt;/figure></description></item><item><title>New Balance</title><link>https://cortefino-mexico.github.io/items/000341/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000341/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4774.jpg">
+&lt;/figure></description></item><item><title>New Balance</title><link>https://cortefino-mexico.github.io/items/000374/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000374/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5165.jpg">
+&lt;/figure></description></item><item><title>Nine West</title><link>https://cortefino-mexico.github.io/items/000359/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000359/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5110.jpg">
+&lt;/figure></description></item><item><title>NOMAD</title><link>https://cortefino-mexico.github.io/items/000334/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000334/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4767.jpg">
+&lt;/figure></description></item><item><title>On 12th</title><link>https://cortefino-mexico.github.io/items/000354/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000354/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5108.jpg">
+&lt;/figure></description></item><item><title>Profussion</title><link>https://cortefino-mexico.github.io/items/000238/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000238/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5174.jpg">
+&lt;/figure></description></item><item><title>Puma</title><link>https://cortefino-mexico.github.io/items/000155/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000155/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5120.jpg">
+&lt;/figure></description></item><item><title>Puma</title><link>https://cortefino-mexico.github.io/items/000158/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000158/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5124.jpg">
+&lt;/figure></description></item><item><title>RAINFOREST</title><link>https://cortefino-mexico.github.io/items/000348/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000348/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4698.jpg">
+&lt;/figure></description></item><item><title>Revolution GLOW</title><link>https://cortefino-mexico.github.io/items/000243/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000243/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4924.jpg">
+&lt;/figure></description></item><item><title>Skechers</title><link>https://cortefino-mexico.github.io/items/000172/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000172/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4737.jpg">
+&lt;/figure></description></item><item><title>Steve Maden</title><link>https://cortefino-mexico.github.io/items/000013/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000013/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4711.jpg">
+&lt;/figure></description></item><item><title>Steve Maden</title><link>https://cortefino-mexico.github.io/items/000015/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000015/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4720.jpg">
+&lt;/figure></description></item><item><title>The Balm Cosmetics</title><link>https://cortefino-mexico.github.io/items/000247/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000247/</guid><description/></item><item><title>The North Face</title><link>https://cortefino-mexico.github.io/items/000353/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000353/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5105.jpg">
+&lt;/figure></description></item><item><title>Tommy Hilfiger</title><link>https://cortefino-mexico.github.io/items/000057/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000057/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5259.jpg">
+&lt;/figure></description></item><item><title>Tommy Hilfiger</title><link>https://cortefino-mexico.github.io/items/000058/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000058/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5209.jpg">
+&lt;/figure></description></item><item><title>Tommy Hilfiger</title><link>https://cortefino-mexico.github.io/items/000362/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000362/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5113.jpg">
+&lt;/figure></description></item><item><title>WATERPROOF</title><link>https://cortefino-mexico.github.io/items/000347/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000347/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4699.jpg">
+&lt;/figure></description></item></channel></rss>
