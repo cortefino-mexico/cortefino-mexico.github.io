@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OLIVIA MILLER on Corte Fino</title>
-    <link>https://cortefino-mexico.github.io/tags/olivia-miller/</link>
+    <link>http://localhost:1313/tags/olivia-miller/</link>
     <description>Recent content in OLIVIA MILLER on Corte Fino</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
     <managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor>
     <webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster>
-    <atom:link href="https://cortefino-mexico.github.io/tags/olivia-miller/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/olivia-miller/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OLIVIA MILLER</title>
-      <link>https://cortefino-mexico.github.io/items/000012/</link>
+      <link>http://localhost:1313/items/000012/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>https://cortefino-mexico.github.io/items/000012/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://cortefino-mexico.github.io/images/IMG_4725.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/items/000012/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4725.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>OLIVIA MILLER</title>
-      <link>https://cortefino-mexico.github.io/items/000016/</link>
+      <link>http://localhost:1313/items/000016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>https://cortefino-mexico.github.io/items/000016/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://cortefino-mexico.github.io/images/IMG_4723.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/items/000016/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4723.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YOUNG on Corte Fino</title>
-    <link>https://cortefino-mexico.github.io/tags/young/</link>
+    <link>http://localhost:1313/tags/young/</link>
     <description>Recent content in YOUNG on Corte Fino</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
     <managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor>
     <webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster>
-    <atom:link href="https://cortefino-mexico.github.io/tags/young/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/young/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>YOUNG</title>
-      <link>https://cortefino-mexico.github.io/items/000152/</link>
+      <link>http://localhost:1313/items/000152/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>https://cortefino-mexico.github.io/items/000152/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://cortefino-mexico.github.io/images/IMG_5289.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/items/000152/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5289.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>YOUNG</title>
-      <link>https://cortefino-mexico.github.io/items/000168/</link>
+      <link>http://localhost:1313/items/000168/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>https://cortefino-mexico.github.io/items/000168/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://cortefino-mexico.github.io/images/IMG_5266.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/items/000168/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5266.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>

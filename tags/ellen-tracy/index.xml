@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ellen Tracy on Corte Fino</title>
-    <link>https://cortefino-mexico.github.io/tags/ellen-tracy/</link>
+    <link>http://localhost:1313/tags/ellen-tracy/</link>
     <description>Recent content in Ellen Tracy on Corte Fino</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
     <managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor>
     <webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster>
-    <atom:link href="https://cortefino-mexico.github.io/tags/ellen-tracy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ellen-tracy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ellen Tracy</title>
-      <link>https://cortefino-mexico.github.io/items/000203/</link>
+      <link>http://localhost:1313/items/000203/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>https://cortefino-mexico.github.io/items/000203/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://cortefino-mexico.github.io/images/IMG_5143.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/items/000203/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5143.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Ellen Tracy</title>
-      <link>https://cortefino-mexico.github.io/items/000204/</link>
+      <link>http://localhost:1313/items/000204/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>https://cortefino-mexico.github.io/items/000204/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://cortefino-mexico.github.io/images/IMG_4920.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/items/000204/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4920.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Ellen Tracy</title>
-      <link>https://cortefino-mexico.github.io/items/000205/</link>
+      <link>http://localhost:1313/items/000205/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>https://cortefino-mexico.github.io/items/000205/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://cortefino-mexico.github.io/images/IMG_4920.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/items/000205/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4920.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Ellen Tracy</title>
-      <link>https://cortefino-mexico.github.io/items/000206/</link>
+      <link>http://localhost:1313/items/000206/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>https://cortefino-mexico.github.io/items/000206/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://cortefino-mexico.github.io/images/IMG_4920.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/items/000206/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4920.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>

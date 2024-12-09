@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GBG Los Angeles on Corte Fino</title>
-    <link>https://cortefino-mexico.github.io/tags/gbg-los-angeles/</link>
+    <link>http://localhost:1313/tags/gbg-los-angeles/</link>
     <description>Recent content in GBG Los Angeles on Corte Fino</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
     <managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor>
     <webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster>
-    <atom:link href="https://cortefino-mexico.github.io/tags/gbg-los-angeles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gbg-los-angeles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GBG Los Angeles</title>
-      <link>https://cortefino-mexico.github.io/items/000139/</link>
+      <link>http://localhost:1313/items/000139/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>https://cortefino-mexico.github.io/items/000139/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://cortefino-mexico.github.io/images/IMG_5041.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/items/000139/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5041.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>GBG Los Angeles</title>
-      <link>https://cortefino-mexico.github.io/items/000153/</link>
+      <link>http://localhost:1313/items/000153/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>https://cortefino-mexico.github.io/items/000153/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://cortefino-mexico.github.io/images/IMG_5302.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/items/000153/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5302.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>GBG Los Angeles</title>
-      <link>https://cortefino-mexico.github.io/items/000169/</link>
+      <link>http://localhost:1313/items/000169/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>https://cortefino-mexico.github.io/items/000169/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://cortefino-mexico.github.io/images/IMG_5041.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/items/000169/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5041.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>
