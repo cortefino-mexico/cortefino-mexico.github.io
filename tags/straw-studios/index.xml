@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Straw Studios on Corte Fino</title>
+    <link>http://localhost:1313/tags/straw-studios/</link>
+    <description>Recent content in Straw Studios on Corte Fino</description>
+    <generator>Hugo</generator>
+    <language>es-MX</language>
+    <managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor>
+    <webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster>
+    <atom:link href="http://localhost:1313/tags/straw-studios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Straw Studios</title>
+      <link>http://localhost:1313/items/000457/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
+      <guid>http://localhost:1313/items/000457/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/Screenshot1432423612.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/Screenshot234234722.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/Screenshot2545712.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,6 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Revolution GLOW on Corte Fino</title><link>https://cortefino-mexico.github.io/tags/revolution-glow/</link><description>Recent content in Revolution GLOW on Corte Fino</description><generator>Hugo</generator><language>es-MX</language><managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor><webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster><atom:link href="https://cortefino-mexico.github.io/tags/revolution-glow/index.xml" rel="self" type="application/rss+xml"/><item><title>Revolution GLOW</title><link>https://cortefino-mexico.github.io/items/000243/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000243/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4924.jpg">
-&lt;/figure></description></item><item><title>Revolution GLOW</title><link>https://cortefino-mexico.github.io/items/000244/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000244/</guid><description>&lt;p>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4924.jpg">
-&lt;/figure>
-&lt;figure>&lt;img src="images/%60.jpg">
-&lt;/figure>
-&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Revolution GLOW on Corte Fino</title>
+    <link>http://localhost:1313/tags/revolution-glow/</link>
+    <description>Recent content in Revolution GLOW on Corte Fino</description>
+    <generator>Hugo</generator>
+    <language>es-MX</language>
+    <managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor>
+    <webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster>
+    <atom:link href="http://localhost:1313/tags/revolution-glow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revolution GLOW</title>
+      <link>http://localhost:1313/items/000244/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
+      <guid>http://localhost:1313/items/000244/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4924.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;images/%60.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
