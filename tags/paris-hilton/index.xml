@@ -1,55 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Paris Hilton on Corte Fino</title>
-    <link>http://localhost:1313/tags/paris-hilton/</link>
-    <description>Recent content in Paris Hilton on Corte Fino</description>
-    <generator>Hugo</generator>
-    <language>es-MX</language>
-    <managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor>
-    <webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster>
-    <atom:link href="http://localhost:1313/tags/paris-hilton/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Paris Hilton</title>
-      <link>http://localhost:1313/items/000231/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000231/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4851.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Paris Hilton</title>
-      <link>http://localhost:1313/items/000328/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000328/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5323.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Paris Hilton</title>
-      <link>http://localhost:1313/items/000329/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000329/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5324.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Paris Hilton</title>
-      <link>http://localhost:1313/items/000330/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000330/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5326.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Paris Hilton</title>
-      <link>http://localhost:1313/items/000331/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000331/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5327.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Paris Hilton</title>
-      <link>http://localhost:1313/items/000332/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000332/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5346.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paris Hilton on Corte Fino</title><link>https://cortefino-mexico.github.io/tags/paris-hilton/</link><description>Recent content in Paris Hilton on Corte Fino</description><generator>Hugo</generator><language>es-MX</language><managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor><webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster><atom:link href="https://cortefino-mexico.github.io/tags/paris-hilton/index.xml" rel="self" type="application/rss+xml"/><item><title>Paris Hilton</title><link>https://cortefino-mexico.github.io/items/000231/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000231/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4851.jpg">
+&lt;/figure></description></item><item><title>Paris Hilton</title><link>https://cortefino-mexico.github.io/items/000328/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000328/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5323.jpg">
+&lt;/figure></description></item><item><title>Paris Hilton</title><link>https://cortefino-mexico.github.io/items/000329/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000329/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5324.jpg">
+&lt;/figure></description></item><item><title>Paris Hilton</title><link>https://cortefino-mexico.github.io/items/000330/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000330/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5326.jpg">
+&lt;/figure></description></item><item><title>Paris Hilton</title><link>https://cortefino-mexico.github.io/items/000331/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000331/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5327.jpg">
+&lt;/figure></description></item><item><title>Paris Hilton</title><link>https://cortefino-mexico.github.io/items/000332/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000332/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5346.jpg">
+&lt;/figure></description></item></channel></rss>

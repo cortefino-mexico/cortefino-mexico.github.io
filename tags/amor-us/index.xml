@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Amor US on Corte Fino</title>
-    <link>http://localhost:1313/tags/amor-us/</link>
-    <description>Recent content in Amor US on Corte Fino</description>
-    <generator>Hugo</generator>
-    <language>es-MX</language>
-    <managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor>
-    <webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster>
-    <atom:link href="http://localhost:1313/tags/amor-us/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Amor US</title>
-      <link>http://localhost:1313/items/000197/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000197/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5147.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Amor US</title>
-      <link>http://localhost:1313/items/000198/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000198/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5140.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Amor US on Corte Fino</title><link>https://cortefino-mexico.github.io/tags/amor-us/</link><description>Recent content in Amor US on Corte Fino</description><generator>Hugo</generator><language>es-MX</language><managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor><webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster><atom:link href="https://cortefino-mexico.github.io/tags/amor-us/index.xml" rel="self" type="application/rss+xml"/><item><title>Amor US</title><link>https://cortefino-mexico.github.io/items/000197/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000197/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5147.jpg">
+&lt;/figure></description></item><item><title>Amor US</title><link>https://cortefino-mexico.github.io/items/000198/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000198/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5140.jpg">
+&lt;/figure></description></item></channel></rss>

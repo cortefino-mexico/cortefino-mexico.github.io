@@ -1,62 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jessica Simpson on Corte Fino</title>
-    <link>http://localhost:1313/tags/jessica-simpson/</link>
-    <description>Recent content in Jessica Simpson on Corte Fino</description>
-    <generator>Hugo</generator>
-    <language>es-MX</language>
-    <managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor>
-    <webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster>
-    <atom:link href="http://localhost:1313/tags/jessica-simpson/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Jessica Simpson</title>
-      <link>http://localhost:1313/items/000137/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000137/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4858.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Jessica Simpson</title>
-      <link>http://localhost:1313/items/000145/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000145/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4900.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Jessica Simpson</title>
-      <link>http://localhost:1313/items/000148/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000148/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_4862.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Jessica Simpson</title>
-      <link>http://localhost:1313/items/000405/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000405/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jessica Simpson</title>
-      <link>http://localhost:1313/items/000409/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000409/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;images/IMG_7105.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Jessica Simpson</title>
-      <link>http://localhost:1313/items/000410/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000410/</guid>
-      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;images/IMG_7113.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_7112.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Jessica Simpson</title>
-      <link>http://localhost:1313/items/000411/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000411/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_7116.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jessica Simpson on Corte Fino</title><link>https://cortefino-mexico.github.io/tags/jessica-simpson/</link><description>Recent content in Jessica Simpson on Corte Fino</description><generator>Hugo</generator><language>es-MX</language><managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor><webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster><atom:link href="https://cortefino-mexico.github.io/tags/jessica-simpson/index.xml" rel="self" type="application/rss+xml"/><item><title>Jessica Simpson</title><link>https://cortefino-mexico.github.io/items/000137/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000137/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4858.jpg">
+&lt;/figure></description></item><item><title>Jessica Simpson</title><link>https://cortefino-mexico.github.io/items/000145/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000145/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4900.jpg">
+&lt;/figure></description></item><item><title>Jessica Simpson</title><link>https://cortefino-mexico.github.io/items/000148/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000148/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_4862.jpg">
+&lt;/figure></description></item><item><title>Jessica Simpson</title><link>https://cortefino-mexico.github.io/items/000405/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000405/</guid><description/></item><item><title>Jessica Simpson</title><link>https://cortefino-mexico.github.io/items/000409/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000409/</guid><description>&lt;figure>&lt;img src="images/IMG_7105.jpg">
+&lt;/figure></description></item><item><title>Jessica Simpson</title><link>https://cortefino-mexico.github.io/items/000410/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000410/</guid><description>&lt;p>&lt;figure>&lt;img src="images/IMG_7113.jpg">
+&lt;/figure>
+&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_7112.jpg">
+&lt;/figure>
+&lt;/p></description></item><item><title>Jessica Simpson</title><link>https://cortefino-mexico.github.io/items/000411/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000411/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_7116.jpg">
+&lt;/figure></description></item></channel></rss>

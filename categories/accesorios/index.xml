@@ -1,97 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Accesorios on Corte Fino</title>
-    <link>http://localhost:1313/categories/accesorios/</link>
-    <description>Recent content in Accesorios on Corte Fino</description>
-    <generator>Hugo</generator>
-    <language>es-MX</language>
-    <managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor>
-    <webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster>
-    <atom:link href="http://localhost:1313/categories/accesorios/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>C&amp;C California</title>
-      <link>http://localhost:1313/items/000406/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000406/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guess</title>
-      <link>http://localhost:1313/items/000412/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000412/</guid>
-      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_7123.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_7124.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Guess</title>
-      <link>http://localhost:1313/items/000414/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000414/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_7145.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Guess</title>
-      <link>http://localhost:1313/items/000416/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000416/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/a03d80ef-f873-418e-893c-991abc747ef2.png.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Jessica Simpson</title>
-      <link>http://localhost:1313/items/000405/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000405/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jessica Simpson</title>
-      <link>http://localhost:1313/items/000409/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000409/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;images/IMG_7105.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Jessica Simpson</title>
-      <link>http://localhost:1313/items/000410/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000410/</guid>
-      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;images/IMG_7113.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_7112.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Jessica Simpson</title>
-      <link>http://localhost:1313/items/000411/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000411/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_7116.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Juicy Couture</title>
-      <link>http://localhost:1313/items/000417/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000417/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Margareth Josephs</title>
-      <link>http://localhost:1313/items/000413/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000413/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_7129.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Rawlings</title>
-      <link>http://localhost:1313/items/000408/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000408/</guid>
-      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_7099.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_7100.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>XOXO</title>
-      <link>http://localhost:1313/items/000407/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000407/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_7094.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Accesorios on Corte Fino</title><link>https://cortefino-mexico.github.io/categories/accesorios/</link><description>Recent content in Accesorios on Corte Fino</description><generator>Hugo</generator><language>es-MX</language><managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor><webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster><atom:link href="https://cortefino-mexico.github.io/categories/accesorios/index.xml" rel="self" type="application/rss+xml"/><item><title>C&amp;C California</title><link>https://cortefino-mexico.github.io/items/000406/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000406/</guid><description/></item><item><title>Guess</title><link>https://cortefino-mexico.github.io/items/000412/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000412/</guid><description>&lt;p>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_7123.jpg">
+&lt;/figure>
+&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_7124.jpg">
+&lt;/figure>
+&lt;/p></description></item><item><title>Guess</title><link>https://cortefino-mexico.github.io/items/000414/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000414/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_7145.jpg">
+&lt;/figure></description></item><item><title>Guess</title><link>https://cortefino-mexico.github.io/items/000416/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000416/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/a03d80ef-f873-418e-893c-991abc747ef2.png.jpg">
+&lt;/figure></description></item><item><title>Jessica Simpson</title><link>https://cortefino-mexico.github.io/items/000405/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000405/</guid><description/></item><item><title>Jessica Simpson</title><link>https://cortefino-mexico.github.io/items/000409/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000409/</guid><description>&lt;figure>&lt;img src="images/IMG_7105.jpg">
+&lt;/figure></description></item><item><title>Jessica Simpson</title><link>https://cortefino-mexico.github.io/items/000410/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000410/</guid><description>&lt;p>&lt;figure>&lt;img src="images/IMG_7113.jpg">
+&lt;/figure>
+&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_7112.jpg">
+&lt;/figure>
+&lt;/p></description></item><item><title>Jessica Simpson</title><link>https://cortefino-mexico.github.io/items/000411/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000411/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_7116.jpg">
+&lt;/figure></description></item><item><title>Juicy Couture</title><link>https://cortefino-mexico.github.io/items/000417/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000417/</guid><description/></item><item><title>Margareth Josephs</title><link>https://cortefino-mexico.github.io/items/000413/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000413/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_7129.jpg">
+&lt;/figure></description></item><item><title>Rawlings</title><link>https://cortefino-mexico.github.io/items/000408/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000408/</guid><description>&lt;p>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_7099.jpg">
+&lt;/figure>
+&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_7100.jpg">
+&lt;/figure>
+&lt;/p></description></item><item><title>XOXO</title><link>https://cortefino-mexico.github.io/items/000407/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000407/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_7094.jpg">
+&lt;/figure></description></item></channel></rss>

@@ -1,139 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Timberland on Corte Fino</title>
-    <link>http://localhost:1313/tags/timberland/</link>
-    <description>Recent content in Timberland on Corte Fino</description>
-    <generator>Hugo</generator>
-    <language>es-MX</language>
-    <managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor>
-    <webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster>
-    <atom:link href="http://localhost:1313/tags/timberland/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000075/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000075/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5055.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000076/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000076/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5058.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000077/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000077/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5060.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000078/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000078/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5062.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000079/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000079/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5291.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000080/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000080/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5055.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000081/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000081/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5058.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000082/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000082/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5060.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000083/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000083/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5062.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000084/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000084/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5291.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000085/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000085/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5055.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000086/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000086/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5058.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000087/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000087/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5060.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000088/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000088/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5062.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000089/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000089/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5291.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000090/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000090/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5318.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000091/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000091/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5320.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Timberland</title>
-      <link>http://localhost:1313/items/000092/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author>
-      <guid>http://localhost:1313/items/000092/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_5322.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Timberland on Corte Fino</title><link>https://cortefino-mexico.github.io/tags/timberland/</link><description>Recent content in Timberland on Corte Fino</description><generator>Hugo</generator><language>es-MX</language><managingEditor>gorechavezf@gmail.com (Goreti Chávez Figueroa)</managingEditor><webMaster>gorechavezf@gmail.com (Goreti Chávez Figueroa)</webMaster><atom:link href="https://cortefino-mexico.github.io/tags/timberland/index.xml" rel="self" type="application/rss+xml"/><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000075/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000075/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5055.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000076/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000076/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5058.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000077/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000077/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5060.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000078/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000078/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5062.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000079/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000079/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5291.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000080/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000080/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5055.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000081/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000081/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5058.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000082/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000082/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5060.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000083/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000083/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5062.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000084/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000084/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5291.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000085/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000085/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5055.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000086/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000086/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5058.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000087/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000087/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5060.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000088/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000088/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5062.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000089/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000089/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5291.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000090/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000090/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5318.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000091/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000091/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5320.jpg">
+&lt;/figure></description></item><item><title>Timberland</title><link>https://cortefino-mexico.github.io/items/000092/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gorechavezf@gmail.com (Goreti Chávez Figueroa)</author><guid>https://cortefino-mexico.github.io/items/000092/</guid><description>&lt;figure>&lt;img src="https://cortefino-mexico.github.io/images/IMG_5322.jpg">
+&lt;/figure></description></item></channel></rss>
